@@ -12,54 +12,49 @@ export default function Body() {
             <p className="body-green-links">www.fragle.com.com/about</p>
           </div>
           <p className="body-description">
-            View the profiles of people named Isaiah Francois. Join Facebook to
-            connect with Isaiah Francois and others you may know. Facebook gives
-            people the power...
+            I'm constantly pushing myself to think differently and create
+            something new. Forget thinking outside the box, I want to make my
+            own shape ...
           </p>
         </section>
         <section>
           <div className="bodyLink">
             <h3 className="body-blue-title">
-              Isaiah Francois Profiles | Facebook
+              Isaiah Francois - Lambda School - Orlando, Florida Area | LinkedIn
             </h3>
             <p className="body-green-links">
-              https://www.facebook.com/public/Isaiah-Francois
+              https://www.linkedin.com/in/isaiah-francois-56a5b4188/
             </p>
           </div>
           <p className="body-description">
-            View the profiles of people named Isaiah Francois. Join Facebook to
-            connect with Isaiah Francois and others you may know. Facebook gives
-            people the power...
+            View Isaiah Francois' profile on LinkedIn, the world's largest
+            professional community. Isaiah's education is listed on their
+            profile. See the complete profile on ...
           </p>
         </section>
         <section>
           <div className="bodyLink">
             <h3 className="body-blue-title">
-              Isaiah Francois Profiles | Facebook
+              Isaiah Francois (@FrancoisCoding) | Twitter
             </h3>
             <p className="body-green-links">
-              https://www.facebook.com/public/Isaiah-Francois
+              https://twitter.com/FrancoisCoding
             </p>
           </div>
           <p className="body-description">
-            View the profiles of people named Isaiah Francois. Join Facebook to
-            connect with Isaiah Francois and others you may know. Facebook gives
-            people the power...
+            The latest Tweets from Isaiah Francois (@FrancoisCoding). 🧠
+            Developer | @lambdaschool | “Any fool can write code that a computer
+            can understand.
           </p>
         </section>
         <section>
           <div className="bodyLink">
-            <h3 className="body-blue-title">
-              Isaiah Francois Profiles | Facebook
-            </h3>
-            <p className="body-green-links">
-              https://www.facebook.com/public/Isaiah-Francois
-            </p>
+            <h3 className="body-blue-title">Isaiah Francois Resume</h3>
+            <p className="body-green-links">www.fragle.com/resume</p>
           </div>
           <p className="body-description">
-            View the profiles of people named Isaiah Francois. Join Facebook to
-            connect with Isaiah Francois and others you may know. Facebook gives
-            people the power...
+            Isaiah Francois's resume on fragle.com. See all related education
+            and work experience. References available upon request ...
           </p>
         </section>
       </div>
