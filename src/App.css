@@ -80,10 +80,60 @@
 .underSearchBorder {
   padding-bottom: 0.7rem;
   border-bottom: 1px solid #e3e5e9;
+  margin-bottom: 0.4rem;
 }
 
 .underSearch span:hover,
 .underSearch p:hover {
   color: #4285f4;
   cursor: pointer;
+}
+
+/* Results Styling */
+.results {
+  margin-left: 13%;
+  color: #777777;
+}
+
+/* Body Styling */
+.bodySection {
+  display: flex;
+  margin-left: 13%;
+  margin-top: 1rem;
+}
+
+.bodySideOne {
+  display: flex;
+  flex-direction: column;
+}
+
+.bodySideOne section {
+  margin-bottom: 2rem;
+}
+
+.bodySideTwo {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+}
+
+.body-green-links {
+  color: #006621;
+  font-size: 0.9rem;
+  line-height: 1.4rem;
+  text-decoration: none !important;
+}
+
+.body-blue-title {
+  color: #1a0dab;
+  font-weight: 400;
+}
+
+.body-blue-title:hover {
+  text-decoration: underline;
+}
+
+.body-description {
+  font-size: 0.9rem;
+  color: #54547a;
 }
