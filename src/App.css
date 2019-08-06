@@ -85,6 +85,13 @@ a {
   margin-bottom: 0.4rem;
 }
 
+.underSearchBorder a {
+  color: black;
+  border: 1px solid #e3e5e9;
+  padding: 3px;
+}
+
+.underSearchBorder a:hover,
 .underSearch span:hover,
 .underSearch p:hover {
   color: #4285f4;

@@ -48,7 +48,9 @@ export default function Navbar() {
           </span>
 
           <p>Settings</p>
-          <p>Tools</p>
+          <a href="https://drive.google.com/uc?export=download&id=1Iv8Zm1OdzWQ1D_8kRbpavC38KJB7u2EL">
+            <b>Download Resume</b>
+          </a>
         </div>
       </div>
     </>
