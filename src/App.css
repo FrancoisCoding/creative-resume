@@ -181,6 +181,10 @@ a {
   color: #757575;
 }
 
+.bodyLink:hover {
+  cursor: pointer;
+}
+
 @media (max-width: 800px) {
   .underSearch {
     width: 90%;

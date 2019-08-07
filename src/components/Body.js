@@ -8,11 +8,9 @@ export default function Body() {
       <div className="bodySideOne">
         <section>
           <div className="bodyLink">
-            <a>
-              <h3 className="body-blue-title">
-                About Fragle | Isaiah Francois's website
-              </h3>
-            </a>
+            <h3 className="body-blue-title">
+              About Fragle | Isaiah Francois's website
+            </h3>
             <p className="body-green-links">www.fragle.com.com/about</p>
           </div>
           <p className="body-description">
@@ -22,11 +20,7 @@ export default function Body() {
         </section>
         <section>
           <div className="bodyLink">
-            <a>
-              <h3 className="body-blue-title">
-                Personal Info | Isaiah Francois
-              </h3>
-            </a>
+            <h3 className="body-blue-title">Personal Info | Isaiah Francois</h3>
             <p className="body-green-links">www.learnaboutme.com/isaiah</p>
           </div>
           <p className="body-description">
@@ -42,8 +36,8 @@ export default function Body() {
               rel="noopener noreferrer"
             >
               <h3 className="body-blue-title">Education | Isaiah Francois</h3>
+              <p className="body-green-links">https://lambdaschool.com/</p>
             </a>
-            <p className="body-green-links">https://lambdaschool.com/</p>
           </div>
           <p className="body-description">
             Attended Lambda School Full Stack Web Development program. Lambda
@@ -71,10 +65,10 @@ export default function Body() {
               <h3 className="body-blue-title">
                 Technologies/Languages | Isaiah Francois
               </h3>
+              <p className="body-green-links">
+                https://github.com/FrancoisCoding
+              </p>
             </a>
-            <p className="body-green-links">
-              https://github.com/FrancoisCoding
-            </p>
           </div>
           <p className="body-description">
             HTML | CSS | JavaScript | Bootstrap | React | Python | Node |
@@ -92,10 +86,10 @@ export default function Body() {
                 Isaiah Francois - Lambda School - Orlando, Florida Area |
                 LinkedIn
               </h3>
+              <p className="body-green-links">
+                https://www.linkedin.com/in/isaiah-francois-56a5b4188
+              </p>
             </a>
-            <p className="body-green-links">
-              https://www.linkedin.com/in/isaiah-francois-56a5b4188
-            </p>
           </div>
           <p className="body-description">
             View Isaiah Francois' profile on LinkedIn, the world's largest
@@ -113,10 +107,10 @@ export default function Body() {
               <h3 className="body-blue-title">
                 Isaiah Francois (@FrancoisCoding) | Twitter
               </h3>
+              <p className="body-green-links">
+                https://twitter.com/FrancoisCoding
+              </p>
             </a>
-            <p className="body-green-links">
-              https://twitter.com/FrancoisCoding
-            </p>
           </div>
           <p className="body-description">
             The latest Tweets from Isaiah Francois (@FrancoisCoding).{" "}
