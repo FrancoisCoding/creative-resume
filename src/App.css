@@ -179,3 +179,69 @@ a {
 .bullets {
   color: #757575;
 }
+
+@media (max-width: 800px) {
+  .underSearch {
+    width: 90%;
+    margin-left: 5rem;
+    font-size: 0.7rem;
+  }
+
+  .navbar img {
+    width: 10%;
+    height: 5%;
+    margin-right: 1rem;
+  }
+  .bodySection {
+    display: flex;
+    flex-direction: column;
+  }
+  .bodySideTwo {
+    height: 100%;
+    width: 90%;
+  }
+}
+
+@media (max-width: 700px) {
+  .underSearch {
+    margin-left: 3rem;
+  }
+}
+
+@media (max-width: 550px) {
+  .underSearch {
+    width: 95%;
+    margin-left: 1rem;
+    font-size: 0.6rem;
+  }
+  .navbar img {
+    width: 15%;
+    height: 10%;
+    margin-right: 1rem;
+  }
+  .searchIcons {
+    display: none;
+  }
+}
+@media (max-width: 450px) {
+  .underSearch {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0.5rem;
+    width: 100%;
+    margin-left: 0rem;
+    font-size: 0.5rem;
+  }
+  .navbar img {
+    width: 20%;
+    height: 15%;
+    margin-right: 1rem;
+  }
+
+  .navbarButton {
+    padding: 0.2rem;
+    font-size: 0.5rem;
+    margin-left: 1rem;
+  }
+}
