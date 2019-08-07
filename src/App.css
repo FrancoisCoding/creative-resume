@@ -101,6 +101,7 @@ a {
 .download:hover {
   background: #4285f4;
   color: white;
+  cursor: pointer;
 }
 
 .underSearch span:hover,
