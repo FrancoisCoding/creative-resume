@@ -40,8 +40,19 @@ export default function Body() {
             <p className="body-green-links">https://lambdaschool.com/</p>
           </div>
           <p className="body-description">
-            Attended Lambda School Full Stack Web Development program. Here I
-            learned HTML, CSS, JavaScript, React, Node, and Express.
+            Attended Lambda School Full Stack Web Development program. Lambda
+            School is a 9+ month Computer Science & Software Engineering Academy
+            that provides an immersive hands-on curriculum with a focus on
+            computer science, and fullstack web development. Students in this
+            program... -Approach all coding challenges using pair programming.
+            -Utilize agile software development and Git workflow on all
+            projects. -Gain hands-on experience with client and server testing,
+            -Design original user experiences across a range of web and mobile
+            platforms, from ideation, to wireframing, to final product.
+            -Complete all curriculum course work including: React, Redux, Node,
+            Express, MongoDB, and Jest. -Write production-ready code using
+            ReactJS, Redux, and CSS on the frontend and NodeJS and Express on
+            the backend to build single page applications.
           </p>
         </section>
         <section>
@@ -62,6 +73,52 @@ export default function Body() {
           <p className="body-description">
             HTML | CSS | JavaScript | Bootstrap | React | Python | Node |
             Express | C# | Ruby | Unity Engine
+          </p>
+        </section>
+        <section>
+          <div className="bodyLink">
+            <a
+              href="https://www.linkedin.com/in/isaiah-francois-56a5b4188"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h3 className="body-blue-title">
+                Isaiah Francois - Lambda School - Orlando, Florida Area |
+                LinkedIn
+              </h3>
+            </a>
+            <p className="body-green-links">
+              https://www.linkedin.com/in/isaiah-francois-56a5b4188
+            </p>
+          </div>
+          <p className="body-description">
+            View Isaiah Francois' profile on LinkedIn, the world's largest
+            professional community. Isaiah's education is listed on their
+            profile. See the complete profile on ...
+          </p>
+        </section>
+        <section>
+          <div className="bodyLink">
+            <a
+              href="https://twitter.com/FrancoisCoding"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h3 className="body-blue-title">
+                Isaiah Francois (@FrancoisCoding) | Twitter
+              </h3>
+            </a>
+            <p className="body-green-links">
+              https://twitter.com/FrancoisCoding
+            </p>
+          </div>
+          <p className="body-description">
+            The latest Tweets from Isaiah Francois (@FrancoisCoding).{" "}
+            <span role="img" aria-label="Brain">
+              🧠
+            </span>
+            Developer | @lambdaschool | “Any fool can write code that a computer
+            can understand.
           </p>
         </section>
       </div>
