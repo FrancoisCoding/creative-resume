@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { FaMicrophone } from "react-icons/fa";
 import { FaSearch } from "react-icons/fa";
 import { FaTh } from "react-icons/fa";
@@ -9,6 +9,7 @@ import { FaTag } from "react-icons/fa";
 import { FaEllipsisV } from "react-icons/fa";
 
 export default function Navbar() {
+  const [hover, setHover] = useState(false);
   return (
     <>
       <div className="navbar">
@@ -48,9 +49,15 @@ export default function Navbar() {
           </span>
 
           <p>Settings</p>
-          <a href="https://drive.google.com/uc?export=download&id=1Iv8Zm1OdzWQ1D_8kRbpavC38KJB7u2EL">
-            <b>Download Resume</b>
-          </a>
+          <div
+            className="download"
+            onMouseEnter={() => setHover(true)}
+            onMouseLeave={() => setHover(false)}
+          >
+            <a href="https://drive.google.com/uc?export=download&id=1Iv8Zm1OdzWQ1D_8kRbpavC38KJB7u2EL">
+              <b className={hover ? "hoverOn" : "hoverOff"}>Download Resume</b>
+            </a>
+          </div>
         </div>
       </div>
     </>

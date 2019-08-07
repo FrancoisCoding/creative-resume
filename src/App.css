@@ -85,13 +85,24 @@ a {
   margin-bottom: 0.4rem;
 }
 
-.underSearchBorder a {
-  color: black;
+.download {
   border: 1px solid #e3e5e9;
   padding: 3px;
 }
 
-.underSearchBorder a:hover,
+.hoverOn {
+  color: white;
+}
+
+.download a {
+  color: black;
+}
+
+.download:hover {
+  background: #4285f4;
+  color: white;
+}
+
 .underSearch span:hover,
 .underSearch p:hover {
   color: #4285f4;
