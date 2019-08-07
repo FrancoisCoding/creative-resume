@@ -8,9 +8,11 @@ export default function Body() {
       <div className="bodySideOne">
         <section>
           <div className="bodyLink">
-            <h3 className="body-blue-title">
-              About Fragle | Isaiah Francois's website
-            </h3>
+            <a>
+              <h3 className="body-blue-title">
+                About Fragle | Isaiah Francois's website
+              </h3>
+            </a>
             <p className="body-green-links">www.fragle.com.com/about</p>
           </div>
           <p className="body-description">
@@ -20,7 +22,11 @@ export default function Body() {
         </section>
         <section>
           <div className="bodyLink">
-            <h3 className="body-blue-title">Personal Info | Isaiah Francois</h3>
+            <a>
+              <h3 className="body-blue-title">
+                Personal Info | Isaiah Francois
+              </h3>
+            </a>
             <p className="body-green-links">www.learnaboutme.com/isaiah</p>
           </div>
           <p className="body-description">
