@@ -14,7 +14,7 @@ export default function Body() {
             <p className="body-green-links">www.fragle.com.com/about</p>
           </div>
           <p className="body-description">
-            Thinking ahead is what i do best. Creating a resume can be a simple
+            Thinking ahead is what I do best. Creating a resume can be a simple
             task, but why not make it creative in the process ...
           </p>
         </section>
