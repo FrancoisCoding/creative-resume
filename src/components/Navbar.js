@@ -56,7 +56,7 @@ export default function Navbar() {
             onMouseEnter={() => setHover(true)}
             onMouseLeave={() => setHover(false)}
           >
-            <a href="https://drive.google.com/uc?export=download&id=1O01LmONFuLeluhLTOxz2txGrtrWZ0Cn8">
+            <a href="https://drive.google.com/uc?export=download&id=1OXJFhnxkZ6i8nM97KiooBVbcsh-toohq">
               <b className={hover ? "hoverOn" : "hoverOff"}>Download Resume</b>
             </a>
           </div>
