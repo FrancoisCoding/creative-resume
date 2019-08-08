@@ -135,9 +135,9 @@ export default function Body() {
             </a>
             <ul>
               <li className="bullets">
-                Created gaming platform where users can find latest news and
-                info on video games | Technologies Used: React, CSS, HTML,
-                JavaScript, Bootstrap
+                Individually created gaming platform where users can find latest
+                news and info on video games | Technologies Used: React, CSS,
+                HTML, JavaScript, Bootstrap
               </li>
             </ul>
           </div>
@@ -151,9 +151,9 @@ export default function Body() {
             </a>
             <ul>
               <li className="bullets">
-                Created math game to help students test there skills with
-                multiplication, addition, and subtraction | Technologies Used:
-                CSS, HTML, JavaScript
+                Individually created math game to help students test there
+                skills with multiplication, addition, and subtraction |
+                Technologies Used: CSS, HTML, JavaScript
               </li>
             </ul>
           </div>
@@ -166,10 +166,9 @@ export default function Body() {
               <h3>Knife Run</h3>
             </a>
             <ul>
-              <li className="bullets">Created the music soundtrack </li>
               <li className="bullets">
-                Made the game natively on pc and ported to Android |
-                Technologies Used: C#, Unity Engine
+                Individually created video game natively on pc and ported to
+                Android | Technologies Used: C#, Unity Engine
               </li>
             </ul>
           </div>
@@ -182,12 +181,17 @@ export default function Body() {
               <h3>Secret Family Recipe Cookbook</h3>
             </a>
             <ul>
+              <li className="bullets">
+                Developed under a deadline of 1 week with a team of 8 members
+              </li>
               <li className="bullets">Integrated Search functionality</li>
               <li className="bullets">
                 Added ability to add recipes, and edit recipes
               </li>
               <li className="bullets">
-                Created pages with loading transition | Technologies Used:
+                Individually contributed to all pages, loading transitions,
+                forms, registration/login functionality, redux implementation,
+                and organization of team files and workflow | Technologies Used:
                 React, CSS, HTML, JavaScript, Bootstrap
               </li>
             </ul>

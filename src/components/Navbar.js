@@ -15,7 +15,9 @@ export default function Navbar() {
       <div className="navbar">
         <img src={process.env.PUBLIC_URL + "/Fragle.png"} alt="Google Logo" />
         <div className="search">
-          <p className="searchName">Isaiah Francois</p>
+          <p className="searchName">
+            <strong>Isaiah Francois</strong>
+          </p>
           <div className="searchIcons">
             <FaMicrophone />
             <FaSearch className="searchIcon" />
