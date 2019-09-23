@@ -74,6 +74,7 @@ export default function Body() {
             HTML | CSS | JavaScript | Bootstrap | React | Python | Node |
             Express | C# | Ruby | Unity Engine | Java | PostgreSql | MongoDB |
             Express | Git | Jest | Redux | Spring | Webpack | Less | Sass | Vue
+            | Docker |
           </p>
         </section>
         <section>
