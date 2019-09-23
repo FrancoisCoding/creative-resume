@@ -144,7 +144,7 @@ export default function Body() {
           </div>
           <div>
             <a
-              href="https://francoiscoding.itch.io/mathgame"
+              href="https://reactmovies-rmdb.netlify.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
