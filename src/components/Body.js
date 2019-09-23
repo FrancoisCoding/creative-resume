@@ -72,7 +72,8 @@ export default function Body() {
           </div>
           <p className="body-description">
             HTML | CSS | JavaScript | Bootstrap | React | Python | Node |
-            Express | C# | Ruby | Unity Engine
+            Express | C# | Ruby | Unity Engine | Java | PostgreSql | MongoDB |
+            Express | Git | Jest | Redux | Spring | Webpack | Less | Sass | Vue
           </p>
         </section>
         <section>
@@ -147,31 +148,18 @@ export default function Body() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <h3>Math Game</h3>
+              <h3>React Movie</h3>
             </a>
             <ul>
               <li className="bullets">
-                Individually created math game to help students test there
-                skills with multiplication, addition, and subtraction |
-                Technologies Used: CSS, HTML, JavaScript
+                Individually created movie platform to help anyone find there
+                next movie to watch including infomation about the actors,
+                ratings, and reviews | Technologies Used: React, CSS, HTML,
+                JavaScript
               </li>
             </ul>
           </div>
-          <div>
-            <a
-              href="https://play.google.com/store/apps/details?id=saneFreakyGaming.KnifeRunifeRun"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <h3>Knife Run</h3>
-            </a>
-            <ul>
-              <li className="bullets">
-                Individually created video game natively on pc and ported to
-                Android | Technologies Used: C#, Unity Engine
-              </li>
-            </ul>
-          </div>
+
           <div>
             <a
               href="https://secret-recipes.netlify.com/"
